@@ -32,7 +32,7 @@ export default function Projects(props) {
                         <div className="card-body">
                             <h5 className="card-title">TextUtils App</h5>
                             <p className="card-text">You can modify your text here </p>
-                            <a href="https://mptextutilsapp.netlify.app" target={"blank"} className="btn btn-primary">Open project</a>
+                            <a href="https://manishkulal-textutil.netlify.app" target={"blank"} className="btn btn-primary">Open project</a>
                         </div>
                 </div>
                 <div className="card mb-5" style={{width: "18rem",height:'max-content'}}>
