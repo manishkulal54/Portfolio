@@ -49,7 +49,7 @@ export default function Projects(props) {
                         <div className="card-body">
                             <h5 className="card-title">ICloudNoteBook</h5>
                             <p className="card-text">Create your note on cloud</p>
-                            <a href="" target={"blank"} className="btn btn-primary">Open project</a>
+                            <a href="https://manishkulal-icloudnotebook.netlify.app" target={"blank"} className="btn btn-primary">Open project</a>
                         </div>
                 </div>
             </div>
