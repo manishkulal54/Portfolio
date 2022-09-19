@@ -25,7 +25,7 @@ export default function Footer(props) {
         </div>
         <div className="foot-texts">
           <div>
-            © 2022 Copyright : manishkulal.com
+            © 2022 Copyright : manishkulal.netlify.app
           </div>
         </div>
       </div>
