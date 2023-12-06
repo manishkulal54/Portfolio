@@ -19,10 +19,6 @@ export default function Footer(props) {
             <li><a href="https://wa.me/+919741933493" target="noreferrer"><img src={whatsappImg} alt="" /></a></li>
           </ul>
         </div>
-        <div className="foot-info">
-          <p> Didambettu 5-cents house palli karkala-taluk Udupi-district Karnataka state India -574244</p>
-          <p>Contact me - <a href="tel:+919741933493"> 9741933493</a></p>
-        </div>
         <div className="foot-texts">
           <div>
             © 2022 Copyright : manishkulal.netlify.app
